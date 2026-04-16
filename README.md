@@ -5,7 +5,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-generator/plum-blossom-line-art)
 [![Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-generator/plum-blossom-line-art)
 
-**SPAI 梅花线稿助理是一款基于人工智能技术，专门用于生成传统中国画梅花底稿的创作工具。无论您是国画爱好者还是现代设计师，只需输入文字描述或上传参考图，AI 即可秒级生成工笔白描、写意水墨、没骨画法等多种风格的精美线稿。让传统艺术的“起稿”变得简单高效**
+**SPAI 梅花线稿助理是一款基于人工智能技术，专门用于生成传统中国画梅花底稿的创作工具。无论您是国画爱好者还是现代设计师，只需输入文字描述或上传参考图，AI 即可秒级生成工笔白描、写意水墨、没骨画法等多种风格的精美线稿。让传统艺术的“起稿”变得简单高效！**
 
 ## ➡️ **[立即生成精美梅花线稿 | Start Generating Plum Blossom Art](https://www.sipingseo.com/zh/line-art-generator/plum-blossom-line-art)**
 
