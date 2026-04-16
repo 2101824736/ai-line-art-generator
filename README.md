@@ -50,7 +50,7 @@ The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed 
 | ![工笔白描示例](https://img.sipingseo.com/file/plum-blossom-line-art/EyNh2EXj.webp) | ![工笔细节展示](https://img.sipingseo.com/file/plum-blossom-line-art/G1t0B6pP.webp) |
 
 #### 2. 写意水墨 (Xieyi / Ink Wash Style)
-笔墨神韵生动，展现东方美学的空灵意境，适合书房装饰与艺术创作。
+笔墨神韵生动，展现东方美学的空灵意境，适合书房装饰与艺术创作
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![写意水墨示例](https://img.sipingseo.com/file/plum-blossom-line-art/lphIAzd9.webp) | ![大写意动态](https://img.sipingseo.com/file/plum-blossom-line-art/1iu7Tpt6.webp) |
