@@ -19,7 +19,7 @@ The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed 
 
 ### Key Features
 *   **✨ Text-to-Sketch:** Generate intricate plum blossom layouts from simple text prompts
-*   **🎭 Multi-Style Support:** Choose between traditional white drawing, freehand brushwork, and modern minimalist styles.
+*   **🎭 Multi-Style Support:** Choose between traditional white drawing, freehand brushwork, and modern minimalist styles
 *   **⚡ Rapid AI Rendering:** High-resolution line art generated in 20-30 seconds
 *   **📦 Commercial Use:** All generated sketches come with full commercial rights for design and printing
 *   **💰 100% Free:** No registration or installation required. Access professional AI drawing tools online
