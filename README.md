@@ -15,7 +15,7 @@
 
 ## 🇬🇧 English Introduction
 
-The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed to transform text descriptions into high-quality traditional Chinese plum blossom sketches. It supports various artistic techniques such as **Gongbi (Meticulous)**, **Xieyi (Ink Wash)**, and **Boneless (Mogu)**. Perfect for art students practicing tracing or designers looking for elegant oriental motifs.
+The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed to transform text descriptions into high-quality traditional Chinese plum blossom sketches. It supports various artistic techniques such as **Gongbi (Meticulous)**, **Xieyi (Ink Wash)**, and **Boneless (Mogu)**. Perfect for art students practicing tracing or designers looking for elegant oriental motifs
 
 ### Key Features
 *   **✨ Text-to-Sketch:** Generate intricate plum blossom layouts from simple text prompts.
