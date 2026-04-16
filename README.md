@@ -63,7 +63,7 @@ The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed 
 
 ### 🛠️ 四步创建您的线稿作品 (Simple 4-Step Process)
 
-1.  **上传参考图 (可选)**: 导入图片帮助 AI 更好地理解您需要的构图（支持 JPG/PNG/WebP）。
+1.  **上传参考图 (可选)**: 导入图片帮助 AI 更好地理解您需要的构图（支持 JPG/PNG/WebP）
 2.  **撰写线稿描述**: 使用详细描述词。*例如：“一枝斜出的老梅，枝干苍劲曲折，工笔白描风格。”*
 3.  **选择模型与尺寸**: 根据需求选择 `Nano` (工笔)、`Flux` (写意) 或 `Seedream` (复杂构图)。
 4.  **生成并下载**: 点击“生成梅花线稿”，满意后免费下载高清原图用于临摹或装裱。
