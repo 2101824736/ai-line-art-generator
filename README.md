@@ -56,7 +56,7 @@ The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed 
 | ![写意水墨示例](https://img.sipingseo.com/file/plum-blossom-line-art/lphIAzd9.webp) | ![大写意动态](https://img.sipingseo.com/file/plum-blossom-line-art/1iu7Tpt6.webp) |
 
 #### 3. 没骨与现代简约 (Boneless & Modern Style)
-结合当代审美，将梅花神韵提炼为简洁的艺术线条，适用于品牌标识与文创产品。
+结合当代审美，将梅花神韵提炼为简洁的艺术线条，适用于品牌标识与文创产品
 | 没骨画法示例 | 现代简约示例 |
 | :---: | :---: |
 | ![没骨法示例](https://img.sipingseo.com/file/plum-blossom-line-art/j7GgHMMv.webp) | ![现代简约梅花](https://img.sipingseo.com/file/plum-blossom-line-art/c9RSmNNb.webp) |
