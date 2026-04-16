@@ -71,7 +71,7 @@ The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed 
 ### ⚙️ 适配的专业 AI 引擎
 *   **Nano Banana Pro**: 适合工笔精细线稿，线条极其流畅。
 *   **Flux-Kontext**: 专注于写意水墨风格，墨色浓淡层次感极佳
-*   **Seedream 5**: 擅长处理复杂的背景构图与现代装饰风格。
+*   **Seedream 5**: 擅长处理复杂的背景构图与现代装饰风格
 
 ### ❓ 常见问题 (FAQ)
 
