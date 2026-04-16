@@ -44,7 +44,7 @@ The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed 
 我们的 AI 模型经过海量国画数据训练，能够驾驭多种复杂的梅花构图：
 
 #### 1. 工笔白描 (Gongbi / Meticulous Style)
-精准表现枝干纹理与花瓣层次，线条细劲有力，是专业国画底稿的首选
+精准表现枝干纹理与花瓣层次，线条细劲有力，是专业国画底稿的首选！
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![工笔白描示例](https://img.sipingseo.com/file/plum-blossom-line-art/EyNh2EXj.webp) | ![工笔细节展示](https://img.sipingseo.com/file/plum-blossom-line-art/G1t0B6pP.webp) |
