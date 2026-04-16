@@ -87,7 +87,7 @@ The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed 
 
 <details>
 <summary><strong>我上传的个人照片安全吗？</strong></summary>
-<p>我们采用严格的隐私保护措施，上传的参考图仅用于当次 AI 计算，任务完成后会自动从服务器清除。</p>
+<p>我们采用严格的隐私保护措施，上传的参考图仅用于当次 AI 计算，任务完成后会自动从服务器清除</p>
 </details>
 
 ---
