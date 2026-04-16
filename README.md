@@ -82,7 +82,7 @@ The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed 
 
 <details>
 <summary><strong>如何写出更好的生成指令（Prompt）？</strong></summary>
-<p>建议包含：枝干姿态（如“斜出”、“悬崖”）、花朵状态（如“含苞”、“初绽”）、画面风格（如“宋元风”、“吴昌硕风格”）。描述越具体，效果越传神。</p>
+<p>建议包含：枝干姿态（如“斜出”、“悬崖”）、花朵状态（如“含苞”、“初绽”）、画面风格（如“宋元风”、“吴昌硕风格”）。描述越具体，效果越传神</p>
 </details>
 
 <details>
