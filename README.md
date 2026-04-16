@@ -77,7 +77,7 @@ The **SPAI Plum Blossom Line Art Generator** is a professional AI tool designed 
 
 <details>
 <summary><strong>生成的梅花线稿可以直接打印吗？</strong></summary>
-<p>可以。我们生成的线稿对比度高、线条清晰，非常适合使用 A4 或宣纸打印机输出，直接作为练习底稿使用。</p>
+<p>可以。我们生成的线稿对比度高、线条清晰，非常适合使用 A4 或宣纸打印机输出，直接作为练习底稿使用</p>
 </details>
 
 <details>
